@@ -56,7 +56,7 @@ features                                  :
     
   - title                                 : Pro Version
     description                           : The free version of Cumulus gives you all the meteorological goodness with no obtrusive ads. For a one time purchase you can upgrade to Cumulus Pro for extra goodies including custom app icons, color themes, customization features, and more!
-    fontawesome_icon_name                 : themeco
+    fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
