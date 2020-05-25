@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Practical Design
-    description                           : Cumulus is designed to not make you feel overwhelmed with data while also never leaving you unprepared. View all the forecast info from current conditions to daily forecasts up to 14 days in advance. Instantly and in one simple view.
+    description                           : Cumulus is designed to not make you feel overwhelmed with data while also never leaving you unprepared. View all the forecast info from current conditions to daily forecasts up to 10 days in advance. Instantly and in one simple view.
     fontawesome_icon_name                 : ruler-combined
     
   - title                                 : Siri Shortcuts
