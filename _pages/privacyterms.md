@@ -7,6 +7,7 @@ include_in_header: false
 **Last updated**  
 May 18 2020
 
+# Privacy Matters
 From the start Cumulus has always been self funded and developed by a one man operation. My goal has always been about creating something that is unique and doesn't track users or sell their data. Your privacy matters most to Cumulus which is why it is built to not include any personally identifiable information and does not store any of that information on servers. I hope that someone finds it to be safe, useful, and reliable to check their local weather.
 
 <br>
