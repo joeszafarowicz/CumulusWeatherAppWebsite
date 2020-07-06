@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 18 2020
+July, 5, 2020
 
 # Privacy Matters
 From the start Cumulus has always been self funded and developed by a one man operation. My goal has always been about creating something that is unique and doesn't track users or sell their data. Your privacy matters most to Cumulus which is why it is built to not include any personally identifiable information and does not store any of that information on servers. I hope that someone finds it to be safe, useful, and reliable to check their local weather.
@@ -28,7 +28,7 @@ Cumulus does not collect or store any personally identifiable information. Cumul
 <br>
 
 # Subcriptions
-Some features of Cumulus are only accessible through a subscription basis and billed according to the subscription. You will be billed in advance on a recurring and periodic cycle. Billing cycles are set either on a monthly or yearly basis, depending upon the type of subscription plan you select when purchasing a subscription. \n\nYour subscription will be charged to your iTunes account at confirmation of purchase. Your subscription will automatically renew at the end of your subscription period unless canceled at least 24 hours prior to the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of current period. \n\nYou can manage your subscription or turn off auto-renewal at any time from your iTunes account settings. Cancellation of the active subscription period is not allowed.
+Some features of Cumulus are only accessible through a subscription basis and billed according to the subscription. You will be billed in advance on a recurring and periodic cycle. Billing cycles are set either on a monthly or yearly basis, depending upon the type of subscription plan you select when purchasing a subscription. Your subscription will be charged to your iTunes account at confirmation of purchase. Your subscription will automatically renew at the end of your subscription period unless canceled at least 24 hours prior to the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of current period. You can manage your subscription or turn off auto-renewal at any time from your iTunes account settings. Cancellation of the active subscription period is not allowed.
 
 <br>
 
