@@ -35,8 +35,12 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Practical Design
-    description                           : Cumulus is designed to not make you feel overwhelmed with data while also never leaving you unprepared. View all the forecast info from current conditions to daily forecasts up to 10 days in advance. Instantly and in one simple view.
+    description                           : Cumulus is designed to not make you feel overwhelmed with data while also never leaving you unprepared. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
     fontawesome_icon_name                 : ruler-combined
+    
+  - title                                 : Extended Forecasts
+    description                           : Tap the current conditions card to view different conditions like cloud cover and sunrise or sunset. Swipe the hourly cards to view hourly conditions like precipitation, accumulation or wind. Tap the daily cards to view conditions like visibility or pressure. All done seamlessly with just a tap or swipe.
+    fontawesome_icon_name                 : eye-slash
     
   - title                                 : Siri Shortcuts
     description                           : Record a custom phrase with Siri and get told everything you need to know about the weather around your location, like current temperatures and any precipitation in your area. All without lifting a finger!
@@ -50,12 +54,8 @@ features                                  :
     description                           : Cumulus' forecasting abilities are powered by the Dark Sky servers. They allow Cumulus to get countless information about the weather like knowing when precipitation will start and end, or seeing future weather conditions.
     fontawesome_icon_name                 : broadcast-tower
     
-  - title                                 : No Ads
-    description                           : Cumulus gives you access to all the meteorological goodness with no obtrusive ads. View all the forecast data you want without being interrupted. 
-    fontawesome_icon_name                 : eye-slash
-    
-  - title                                 : Pro Version
-    description                           : For a one time purchase you can upgrade to Cumulus Pro for extra goodies including custom app icons, color themes, customization features, and more!
+  - title                                 : Cumulus+
+    description                           : The free version of Cumulus gives you all the meteorological goodness with no obtrusive ads. Upgrade to Cumulus+ to unlock advanced features including custom app icons, color themes, customization features, and more!
     fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
