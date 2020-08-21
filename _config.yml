@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Extended Forecasts
     description                           : Tap the current conditions card to view different conditions like cloud cover and sunrise or sunset. Swipe the hourly cards to view hourly conditions like precipitation, accumulation or wind. Tap the daily cards to view conditions like visibility or pressure. All done seamlessly with just a tap or swipe.
-    fontawesome_icon_name                 : eye-slash
+    fontawesome_icon_name                 : angle-double-right
     
   - title                                 : Siri Shortcuts
     description                           : Record a custom phrase with Siri and get told everything you need to know about the weather around your location, like current temperatures and any precipitation in your area. All without lifting a finger!
