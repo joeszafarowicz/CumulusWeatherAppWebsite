@@ -5,10 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-July, 5, 2020
+January, 8, 2021
 
-# Privacy Matters
-From the start Cumulus has always been self funded and developed by a one man operation. My goal has always been about creating something that is unique and doesn't track users or sell their data. Your privacy matters most to Cumulus which is why it is built to not include any personally identifiable information and does not store any of that information on servers. I hope that someone finds it to be safe, useful, and reliable to check their local weather.
+# Your Privacy Matters
+Your privacy matters most to Cumulus which is why it is built to not track you or store any personally identifiable information on any servers. I hope that someone finds it to be safe, useful, and reliable to check the weather.
 
 <br>
 
@@ -23,7 +23,7 @@ You may opt to grant Cumulus access to your location to receive localized weathe
 <br>
 
 # Information Collection
-Cumulus does not collect or store any personally identifiable information. Cumulus may ask for permission to access your location but this can be changed at anytime under your devices' settings and is not required. When you allow location access to Cumulus, your location is used along with the Dark Sky servers to retrieve weather forecasts for your location. Your location is also used when the today widget or Siri shortcuts are enabled. Your location is only used each time a request is made. None of the information sent is personally identifiable or stored by any third party.
+Cumulus does not collect or store any personally identifiable information. Cumulus may ask for permission to access your location but this can be changed at anytime under your devices' settings and is not required. When you allow location access to Cumulus, your location is used with the weather data server selected by you under Cumulus' data source settings to retrieve weather forecasts for your location. Your location is also used when the today widget or Siri shortcuts are enabled. Your location is only used each time a request is made. None of the information sent is personally identifiable or stored by any third party.
 
 <br>
 
