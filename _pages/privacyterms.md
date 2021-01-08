@@ -8,7 +8,7 @@ include_in_header: false
 January, 8, 2021
 
 # Your Privacy Matters
-Your privacy matters most to Cumulus which is why it is built to not track you or store any personally identifiable information on any servers. I hope that someone finds it to be safe, useful, and reliable to check the weather.
+Cumulus takes your privacy seriously which is why it is built to not track you or store any personally identifiable information on any servers. I hope that someone finds it to be safe, useful, and reliable to check the weather.
 
 <br>
 
