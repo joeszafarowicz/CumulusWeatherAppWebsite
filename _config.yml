@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Powered by the best
-    description                           : Cumulus' forecasting abilities are powered by the Dark Sky servers. They allow Cumulus to get countless information about the weather like knowing when precipitation will start and end, or seeing future weather conditions.
+    description                           : Cumulus' forecasting abilities are powered by the Dark Sky and OpenWeather servers. They allow Cumulus to get countless information about the weather like knowing when precipitation will start and end, or seeing future weather conditions.
     fontawesome_icon_name                 : broadcast-tower
     
   - title                                 : Cumulus+
