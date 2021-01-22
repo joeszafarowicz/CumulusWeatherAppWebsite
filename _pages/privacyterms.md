@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-January, 8, 2021
+January, 22, 2021
 
 # Your Privacy Matters
 Cumulus takes your privacy seriously which is why it is built to not track you or store any personally identifiable information on any servers. I hope that someone finds it to be safe, useful, and reliable to check the weather.
@@ -23,7 +23,7 @@ You may opt to grant Cumulus access to your location to receive localized weathe
 <br>
 
 # Information Collection
-Cumulus does not collect or store any personally identifiable information. Cumulus may ask for permission to access your location but this can be changed at anytime under your devices' settings and is not required. When you allow location access to Cumulus, your location is used with the weather data server selected by you under Cumulus' data source settings to retrieve weather forecasts for your location. Your location is also used when the today widget or Siri shortcuts are enabled. Your location is only used each time a request is made. None of the information sent is personally identifiable or stored by any third party.
+Cumulus does not collect or store any personally identifiable information. Cumulus may ask for permission to access your location but this can be changed at anytime under your devices' settings and is not required. When you allow location access to Cumulus, your location is used each time a request is made with the weather data server selected by you under Cumulus' data source settings to retrieve weather forecasts for your location. None of the information sent is personally identifiable or stored by any third party.
 
 <br>
 
@@ -33,4 +33,4 @@ Some features of Cumulus are only accessible through a subscription basis and bi
 <br>
 
 # Analytics
-Cumulus does not use any third party services for analytics. However, it does utilize Apple's App Analytics platform to collect statistics on app crashes and usage. This information helps to diagnose and resolve any issues when encountered. This data is collected anonymously and cannot be used to personally identify users.
+Cumulus does not use any third party services for analytics. However, it does utilize Apple's App Analytics platform to collect statistics on app crashes and usage. This information helps to diagnose and resolve any issues when encountered. This data is anonymous and cannot be used to personally identify users.
