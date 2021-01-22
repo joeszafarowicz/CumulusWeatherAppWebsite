@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Weather made easy.
+app_description                           : 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,28 +34,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Practical Design
-    description                           : Cumulus is designed to not make you feel overwhelmed with data while also never leaving you unprepared. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
+  - title                                 : Simple Design
+    description                           : Cumulus is designed to not make you feel overwhelmed with information or ads while also never leaving you feeling unprepared for the weather. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
     fontawesome_icon_name                 : ruler-combined
     
-  - title                                 : Extended Forecasts
-    description                           : Tap the current conditions card to view different conditions like cloud cover and sunrise or sunset. Swipe the hourly cards to view hourly conditions like precipitation, accumulation or wind. Tap the daily cards to view conditions like visibility or pressure. All done seamlessly with just a tap or swipe.
+  - title                                 : Detailed Forecasts
+    description                           : Tap the current conditions card to view different conditions like cloud cover and sunrise or sunset. Swipe the hourly cards to view hourly conditions like precipitation, accumulation, or wind. Tap the daily cards to view conditions like visibility or pressure. All done seamlessly with just a tap or swipe.
     fontawesome_icon_name                 : angle-double-right
     
-  - title                                 : Siri Shortcuts
-    description                           : Record a custom phrase with Siri and get told everything you need to know about the weather around your location, like current temperatures and any precipitation in your area. All without lifting a finger!
-    fontawesome_icon_name                 : microphone-alt
+  - title                                 : Dark Mode
+    description                           : Avoid straining your eyeballs by turning on dark mode and get a better viewing experience in low-light environments.
+    fontawesome_icon_name                 : eye
 
-  - title                                 : Today Widget
-    description                           : Check the weather at a glance without unlocking your phone with the Cumulus Today Widget. Look at what current weather conditions are and what's going to happen in the coming hours and up to four days in advance.
+  - title                                 : Handy Widgets
+    description                           : Check the weather at a glance right from your home screen with small, medium, and large widgets to choose from. View current weather conditions, the forecast over the next 12 hours, or daily forecasts up to 4 days in advance.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Powered by the best
     description                           : Cumulus' forecasting abilities are powered by the Dark Sky and OpenWeather servers. They allow Cumulus to get countless information about the weather like knowing when precipitation will start and end, or seeing future weather conditions.
     fontawesome_icon_name                 : broadcast-tower
     
-  - title                                 : Cumulus+
-    description                           : The free version of Cumulus gives you all the meteorological goodness with no obtrusive ads. Upgrade to Cumulus+ to unlock advanced features including custom app icons, color themes, customization features, and more!
+  - title                                 : Cumulus Free
+    description                           : The free version of Cumulus gives you all the meteorological goodness with no obtrusive ads. Upgrade to Cumulus+ to unlock advanced features including alternate app icons, color themes, more hourly condition forecasts, and more!
     fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
